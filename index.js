@@ -1,6 +1,3 @@
-
-function greetings( name, lastname){
-    console.log('Hello' + name  + lastname)
-
-}
-greetings('Ibrahim', 'Ogunkoya');
+alert('fuck you');
+2 + 2
+console.log('some' + 'row,')
